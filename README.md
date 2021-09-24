@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **roaris/roaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![roaris](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Froaris)](https://atcoder.jp/users/roaris)
+[![roaris](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Froaris)](https://codeforces.com/profile/roaris)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
