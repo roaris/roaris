@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 好きな曲: https://youtu.be/H6Iq0Mh0tEY
 
-[![roaris](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Froaris)](https://atcoder.jp/users/roaris)
-[![roaris](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Froaris)](https://codeforces.com/profile/roaris)  
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roaris&show_icons=true&theme=radical)
